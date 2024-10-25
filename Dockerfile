@@ -1,3 +1,4 @@
+#NA
 # Usa la imagen base de Node.js
 FROM node:20-alpine
 
